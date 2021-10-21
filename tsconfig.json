@@ -12,5 +12,5 @@
     "resolveJsonModule": true,
     "jsx": "react-jsx"
   },
-  "include": ["./01-intro/", "./02-event-loop/", "./03-streams", "./04-testing-configuration-logging", "./05-koajs", "./06-mongodb-mongoose", "./07-authentication", "./08-email"]
+  "include": ["./01-intro/", "./02-event-loop/", "./03-streams", "./04-testing-configuration-logging", "./05-koajs", "./06-mongodb-mongoose", "./07-authentication", "./08-email", "./09-websockets"]
 }
